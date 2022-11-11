@@ -5,8 +5,6 @@ local AL = _G.AtlasLoot.GetLocales("zhCN")
 
 if not AL then return end
 
--- These localization strings are translated on Curseforge: https://www.curseforge.com/wow/addons/atlaslootclassic/localization
--- Collections
 AL["Before Raid"] = "團本前"
 AL["P1"] = "P1"
 
@@ -65,6 +63,6 @@ AL["Trinket"] = "飾品"
 AL["Weapon"] = "武器"
 
 AL["Onehand"] = "單手"
-AL["Offhand"] = "副手"
+AL["Off hand"] = "副手"
 AL["Twohand"] = "雙手"
 AL["Ranged"] = "遠程"
